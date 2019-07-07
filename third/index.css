@@ -1,0 +1,55 @@
+body {
+    margin: 0px;
+    padding:0px;
+}
+.header-one{
+    background-color:lightgrey;
+    height: 9vh;
+    width: absolute;
+    padding: 10px 20px 1px 30px ;
+    margin: 0px;
+
+}
+
+.inside-header{
+    height: 8vh;
+    width: 8vw;
+    background-color:rgb(74,144,226);
+}
+
+.text-container{
+    height: 28vh;
+    width: absolute;
+    margin: 0px;
+    padding: 10px 20px 1px 30px ;
+}
+p {
+    font-size: 1.7em;
+    font-family: "Arial", Arial, Helvetica, sans-serif
+} 
+
+.blue-box {
+    background-color: rgb(74,144,226);
+    height: 14vh;
+    width: absolute;
+    margin: 100px 0 0 0;
+}
+.greenblue-box{
+    background-color: rgb(80,227,194);
+    height:14vh;
+    width:absolute;
+    margin:0px;
+}
+
+.forest-green{
+    background-color: rgb(184,233,134);
+    height:14vh;
+    width:absolute;
+    margin:0px;
+}
+.yellow-box{
+    background-color: rgb(248,231,28);
+    height:14vh;
+    width: absolute;
+    margin:auto;
+}
